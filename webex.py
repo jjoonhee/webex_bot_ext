@@ -1,6 +1,5 @@
 from webex_bot.webex_bot import WebexBot
 import os
-from translate import Translate
 from GPT import GPT
 
 
