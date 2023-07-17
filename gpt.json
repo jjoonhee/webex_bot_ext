@@ -10,18 +10,6 @@
                     "type": "Column",
                     "items": [
                         {
-                            "type": "Image",
-                            "style": "Person",
-                            "size": "Medium",
-                            "height": "80px"
-                        }
-                    ],
-                    "width": "auto"
-                },
-                {
-                    "type": "Column",
-                    "items": [
-                        {
                             "type": "TextBlock",
                             "text": "Hello, This is easy chatGPT API helper",
                             "weight": "Lighter",
